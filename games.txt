@@ -1,0 +1,20 @@
+1,Stardew Valley,Farming Simulation,PC,2016,9.5
+2,Minecraft,Sandbox,PC,2011,9.7
+3,Call of Duty Cold War,Shooter,Xbox,2020,8.2
+4,Red Dead Redemption,Action Adventure,Xbox,2010,9.0
+5,Fortnite,Battle Royale,PC,2017,8.4
+6,Lego Star Wars,Adventure,PC,2022,8.0
+7,Overcooked 2,Party,Xbox,2018,8.7
+8,Halo 3,Shooter,Xbox,2007,9.3
+9,Red Dead Redemption 2,Action Adventure,Xbox,2018,9.7
+10,Call of Duty Modern Warfare,Shooter,PC,2019,8.5
+11,Sims 4,Simulation,PC,2014,8.0
+12,Elden Ring,RPG,PC,2022,9.6
+13,Call of Duty Black Ops 7,Shooter,PC,2024,8.1
+14,Animal Crossing,Simulation,Switch,2020,9.1
+15,Mario Kart,Racing,Switch,2017,9.2
+16,Mario Party,Party,Switch,2021,8.8
+17,PUBG,Battle Royale,Xbox,2017,8.3
+18,Resident Evil,Horror,PC,2021,8.9
+19,Hogwarts Legacy,RPG,Xbox,2023,8.6
+20,High on Life 2,Action Adventure,Xbox,2024,8.4
