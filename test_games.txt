@@ -1,2 +1,0 @@
-1,Minecraft,Sandbox,PC,2011,9.5
-2,Stardew Valley,Simulation,PC,2016,9.0
